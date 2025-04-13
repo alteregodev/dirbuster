@@ -1,0 +1,14 @@
+mail
+search
+query
+account
+login
+register
+database
+db
+dashboard
+admin
+admin-login
+admin-dashboard
+users
+mod

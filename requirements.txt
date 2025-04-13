@@ -1,0 +1,7 @@
+requests
+argparse
+sys
+time
+tqdm
+colorama
+urllib
