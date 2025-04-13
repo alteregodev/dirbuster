@@ -3,5 +3,5 @@ Simple directory checking tool
 
 ## Options
 
-Use "--timeout" to set timeout
-Use "--extensions" to set extensions
+Use "--timeout" to set timeout,
+use "--extensions" to set extensions
