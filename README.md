@@ -5,7 +5,7 @@ Simple directory checking tool
 
 Use "--timeout" to set timeout
 
-use "--extensions" to set extensions
+Use "--extensions" to set extensions
 
 ![image](https://github.com/user-attachments/assets/77e09c77-d47b-471c-bf2b-1134f022b4db)
 
