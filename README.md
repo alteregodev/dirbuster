@@ -18,5 +18,5 @@ Simple directory checking tool
 
 - `-u --url` - Set the target's url
 - `-w --wordlist` - Specify the wordlist to use
-- `-x --extenions` - Add custom extensions to check
+- `-x --extenions` - Add custom extensions to check divided by a comma, ex. php,html,txt
 - `-t --timeout` - Set custom timeout
