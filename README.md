@@ -8,9 +8,9 @@ Simple directory checking tool
 
 `git clone https://github.com/alteregodev/diruster` - Clone the repo
 
-### Step 2
+`cd dirbuster` (Cd into the directory with readme.md and license)
 
-`cd dirbuster`
+### Step 2
 
 `pip install -r requirements.txt` - Install dependencies
 
