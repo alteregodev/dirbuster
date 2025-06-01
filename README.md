@@ -12,9 +12,13 @@ Simple directory checking tool
 
 `cd dirbuster`
 
-`python dirbuster.py --flags` - Run the script
+`pip install -r requirements.txt` - Install dependencies
 
-## Options
+### Step 3
+
+`python dirbuster.py --your-flags` - Run the script
+
+## Flags
 
 - `-u --url` - Set the target's url
 - `-w --wordlist` - Specify the wordlist to use
